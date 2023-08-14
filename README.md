@@ -24,10 +24,9 @@ Node.js, Express, MySql, DBver, Docker
 <img src="https://github.com/kdhun1838/CarCarO/assets/130715766/29091b0c-8cda-4bea-8b1d-975f64c90f2c" width="500">  
 
 ## 데모
-| Command | Description |
+| 메인 | 로그인 회원가입 |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |  
+| <img src="https://github.com/kdhun1838/CarCarO/assets/130715766/a41f1b12-e1a0-4e9a-8ca5-cbebdf8407f4" width="250"> | <img src="https://github.com/kdhun1838/CarCarO/assets/130715766/ab8284dc-5d3b-43c0-95fe-d16f318f1c5c" width="250"> |
 
 | Command | Description |
 | --- | --- |
